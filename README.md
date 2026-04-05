@@ -1,3 +1,8 @@
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Vivek Mathur</h1>
 <h3 align="center">🚀 Kotlin Android Developer | 🌐 Web Developer</h3>
 
@@ -41,22 +46,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-</p>
+###
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freateditz/freateditz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/freateditz/freateditz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/freateditz/freateditz/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-## 🚀 Projects
-- 🔹 Your Project 1  
-- 🔹 Your Project 2  
-- 🔹 Your Project 3  
-
----
-
-⭐️ From [VivekMathur](https://github.com/yourusername)
+###
