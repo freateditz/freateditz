@@ -22,7 +22,7 @@
 <a href="https://in.linkedin.com/in/vivek-mathur9310" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:vivek33123@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 <a href="https://github.com/yourusername">
