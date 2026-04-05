@@ -8,7 +8,7 @@
 - 📱 Building scalable and clean mobile applications
 - 🌐 Experienced in **Frontend + Backend Development**
 - ⚡ Love UI/UX and smooth animations
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **Vivek33123@gmail.com**
 
 ---
 
