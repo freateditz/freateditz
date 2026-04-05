@@ -19,7 +19,7 @@
 
 ## 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
+<a href="https://in.linkedin.com/in/vivek-mathur9310" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:your-email@gmail.com">
